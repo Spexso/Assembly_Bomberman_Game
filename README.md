@@ -11,10 +11,10 @@ This project is a Bomberman game developed as part of a Computer Organization co
 
 ## Files
 
-- **main.c:** Contains the C code version of the game.
-- **main.s:** Assembly code for the Bomberman game.
-- **sixteen.s:** Additional assembly code.
-- **version2.c:** Another version of the game in C.
+- **main.c:** C version of the game that grid-size is hardcoded as 16.
+- **main.s:** Updated assembly version of the game.
+- **sixteen.s:** Version that grid size is hardcoded as 16 in assembly code.
+- **version2.c:** Updated version of the game that you can decide the grid-size.
 
 ## Usage
 

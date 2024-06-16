@@ -1,2 +1,29 @@
-# Assembly_Bomberman_Game
- Computer Organization Project Bomberman game written in Assembly
+# Assembly Bomberman Game
+
+## Overview
+
+This project is a Bomberman game developed as part of a Computer Organization course. The game is written in Assembly language, demonstrating low-level programming and understanding of computer architecture.
+
+## Features
+
+- **Classic Bomberman Gameplay:** Enjoy the traditional Bomberman game mechanics.
+- **Low-Level Programming:** Written in Assembly language to provide a deeper understanding of computer architecture and organization.
+
+## Files
+
+- **main.c:** Contains the C code version of the game.
+- **main.s:** Assembly code for the Bomberman game.
+- **sixteen.s:** Additional assembly code.
+- **version2.c:** Another version of the game in C.
+
+## Usage
+
+To run this project, you will need an Assembly language compiler and a suitable environment for executing low-level code. Follow these steps:
+
+1. Compile the assembly code using an appropriate assembler.
+2. Load the compiled code into your environment.
+3. Execute the game and enjoy!
+
+## License
+
+This project is licensed under the terms specified in the `LICENSE` file included in the repository.
